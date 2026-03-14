@@ -6,7 +6,7 @@ https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content
 ## BALANCETE
 [balancete_receita2.xlsx](https://github.com/user-attachments/files/25808341/balancete_receita2.xlsx)
 ## SOMASE E CONT.SE
-PK
+
 
 
 
