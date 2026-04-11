@@ -32,6 +32,7 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 
 ## MATRICULAS INEP
 
+[dic_var_matriculas_inep2019a2023.xlsx](https://github.com/user-attachments/files/26642203/dic_var_matriculas_inep2019a2023.xlsx)
 
 
 
