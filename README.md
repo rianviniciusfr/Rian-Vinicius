@@ -36,7 +36,8 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 [dic_var_matriculas_inep2019a2023.xlsx](https://github.com/user-attachments/files/26642203/dic_var_matriculas_inep2019a2023.xlsx)
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6ab9d2ac-5775-42d7-937e-bbcd32bc6605" />
 
+## SOMASES MULTAS VENCIDAS EM SP
 
-
+[multas_vencidas_nao_pagas.xlsx](https://github.com/user-attachments/files/26805578/multas_vencidas_nao_pagas.xlsx)
 
 
