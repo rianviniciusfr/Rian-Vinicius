@@ -1,6 +1,7 @@
 
 
 
+
 # Rian-Vinicius
 # Disciplina ministrada no 1º semestre
 # Apresentação em equipe usando software design grafico
@@ -33,6 +34,7 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 ## MATRICULAS INEP
 
 [dic_var_matriculas_inep2019a2023.xlsx](https://github.com/user-attachments/files/26642203/dic_var_matriculas_inep2019a2023.xlsx)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6ab9d2ac-5775-42d7-937e-bbcd32bc6605" />
 
 
 
