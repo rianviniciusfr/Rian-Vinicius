@@ -27,7 +27,8 @@ https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content
 
 ## Melhoria de grafico
 
-<img width="590" height="455" alt="image" src="https://github.com/user-attachments/assets/b0829e51-5c6f-493a-9599-d3dfacddca82" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ee694005-e270-4685-90a6-22606c7d1434" />
 
 
 ## SOMASE E CONT.SE
