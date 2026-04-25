@@ -51,6 +51,14 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 [multas_vencidas_nao_pagas.xlsx](https://github.com/user-attachments/files/26805578/multas_vencidas_nao_pagas.xlsx)
 
 
+
+
+
+2
+
+
+
+
 ## Dashboard power bi
 
 
