@@ -64,3 +64,10 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 
 [Matriculasensinosuperior.zip](https://github.com/user-attachments/files/27070756/Matriculasensinosuperior.zip)
 
+
+## Atividade power bi
+
+
+[EMISSAO DE CNH.zip](https://github.com/user-attachments/files/27500827/EMISSAO.DE.CNH.zip)
+
+
