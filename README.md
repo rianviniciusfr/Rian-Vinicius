@@ -77,7 +77,7 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 [Empregoformal-dadosabertossp.zip](https://github.com/user-attachments/files/27543902/Empregoformal-dadosabertossp.zip)
 
 
-## Ice Cream 
+## Ice Cream grafico de dispersao 
 
 
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782130/Ice.Cream.Sales.-.temperatures.xlsx)
