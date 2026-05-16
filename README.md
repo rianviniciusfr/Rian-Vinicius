@@ -82,3 +82,9 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 
 [Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27782130/Ice.Cream.Sales.-.temperatures.xlsx)
 
+
+# regressão linear Ice Cream
+
+<img width="851" height="523" alt="image" src="https://github.com/user-attachments/assets/1cf13d98-acd5-4dd1-93f9-58c49bde5b8b" />
+
+
