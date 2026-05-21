@@ -85,9 +85,9 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/despesa_funcao%20(1).x
 
 # Regressão linear Ice Cream
 
-<img width="851" height="523" alt="image" src="https://github.com/user-attachments/assets/1cf13d98-acd5-4dd1-93f9-58c49bde5b8b" />
+https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/Regressaolinearicecream.ipynb
 
-<img width="839" height="536" alt="image" src="https://github.com/user-attachments/assets/d849408f-d7d1-458a-8c0f-d45cbe655783" />
+<img width="851" height="523" alt="image" src="https://github.com/user-attachments/assets/1cf13d98-acd5-4dd1-93f9-58c49bde5b8b" />
 
 
 ## Beer consumption in São Paulo
