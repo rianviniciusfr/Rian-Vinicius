@@ -96,3 +96,12 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/beerconsumption.ipynb
 
 <img width="858" height="535" alt="image" src="https://github.com/user-attachments/assets/9c8783a7-9216-467f-ba16-329ba45e9099" />
 
+
+## Cerveja / Ice cream
+
+
+
+
+
+
+
