@@ -1,3 +1,4 @@
+<img width="1148" height="651" alt="Captura de tela 2026-05-29 205304" src="https://github.com/user-attachments/assets/3842b284-82d6-4d36-a2ca-8cbe2b7050b9" />
 
 
 
@@ -100,12 +101,14 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/beerconsumption.ipynb
 ## Cerveja / Ice cream
 
 
+##  Prova
 
-
+<img width="1148" height="651" alt="Captura de tela 2026-05-29 205304" src="https://github.com/user-attachments/assets/70412b7e-7fe1-47cc-9123-dc146f45b8f8" />
 
 
 
 ##[Gravação de Tela 2026-05-29 204423.zip](https://github.com/user-attachments/files/28413847/Gravacao.de.Tela.2026-05-29.204423.zip)
+
 
 
 
