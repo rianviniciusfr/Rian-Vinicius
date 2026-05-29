@@ -105,3 +105,9 @@ https://github.com/rianviniciusfr/Rian-Vinicius/blob/main/beerconsumption.ipynb
 
 
 
+##[Gravação de Tela 2026-05-29 204423.zip](https://github.com/user-attachments/files/28413847/Gravacao.de.Tela.2026-05-29.204423.zip)
+
+
+
+
+
